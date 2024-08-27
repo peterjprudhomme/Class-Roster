@@ -9,7 +9,6 @@ int main()
 {
     cout << "Scripting and Programming - Applications - C867" << endl;
     cout << "Language: C++" << endl;
-    cout << "Student ID: 011046596" << endl;
     cout << "Name: Peter Prudhomme" << endl;
     cout << endl;
     
